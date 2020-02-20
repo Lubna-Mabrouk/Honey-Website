@@ -1,0 +1,169 @@
+
+body
+{
+	margin: 0;
+
+}
+.top
+{
+	width: 100%;
+    background-color: #d0d9d2;
+    height: 20px;
+}
+.top #q{
+		float: right;
+}
+
+#q a
+{
+	text-decoration: none;
+	
+}
+
+.inner
+{
+	clear: both;
+	padding: 10PX;
+
+}
+#logo{
+	float: left;
+}
+nav{
+	float: right;
+	display: flex;
+}
+
+nav a
+{
+	text-align: center;
+	text-decoration: none;
+	padding: 15px;
+	
+}
+.main{
+	clear: both;
+}
+
+ .main img{
+
+	width: 100%;
+}
+
+.container
+{
+	display: flex;
+
+}
+
+.paraghraph p
+{
+	text-align: center;
+}
+
+span
+{
+	color: #8c8b88;
+}
+.middle
+{
+	display: flex;
+	background-color: #e8e6e3;
+}
+.middle .im
+{
+    margin-left: 6%;
+}
+.middle .par
+{
+	    margin-left: 7%;
+
+}
+.middle p
+{
+	text-align: center;
+	
+	padding: 20px;
+}
+
+.middle img
+{
+	transform: rotate(20deg);
+	height: 50px;
+	width: 50px;
+}
+
+.bottom 
+{
+display: flex;
+background-color: #c7c4c1
+}
+
+.bottom h3
+{
+	color: #787877;
+} 
+
+.container 
+{
+	text-align: justify;
+	display: flex;
+}
+.container  .col1
+{
+	width: 25%;
+	margin: 10px;
+}
+
+.container h3
+{
+	
+	color: #4f4e4c;
+}
+
+.container img
+{
+	width: 100%;
+}
+
+.container p 
+{
+	color: #403d3d;
+	text-align: justify;
+}
+
+.bottom h3
+{
+	text-align: center;
+
+}
+
+footer
+{
+	/*padding-top: 20px;*/
+	/*padding-bottom: 20px;*/
+	width: 100%;
+	height: 60px;
+    background-color: #4d4c4b;
+
+}
+
+footer div
+{
+	margin-left: 20px;
+	line-height: 60px;
+	float: left;
+}
+
+footer #icons
+{
+	display: flex;
+	float: right;
+	line-height: 60px;
+	margin: 20px;
+	
+}
+footer #icons i{
+	margin:0px 10px;
+}
+
